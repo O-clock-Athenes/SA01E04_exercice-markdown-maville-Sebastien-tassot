@@ -32,7 +32,7 @@ C'est également durant la première moitié du XX<sup>ème</sup> siècle que Bo
 
 ## Géographie et Démographie
 
-![Geographie](https://maps.wikimedia.org/img/osm-intl,11,48.835277777778,2.2413888888889,300x300.png?lang=fr&domain=fr.wikipedia.org&title=Boulogne-Billancourt&revid=223538438&groups=_225503afe0f8c4a7f45599db69381bf43ba5ffe0 "Géographie de Boulogne-Billancourt")
+![Geographie](https://otbb.org/wp-content/uploads/2025/02/BOULOGNE-plan-2025_A0-1-1-768x1078.jpg "Géographie de Boulogne-Billancourt")
 
 |  DEMOGRAPHIE    |   STATISTIQUES             |
 | ----------------| ---------------------------|
